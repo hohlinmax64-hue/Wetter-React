@@ -1,16 +1,23 @@
-# React + Vite
+# 🌦️ Weather Search – React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Eine Wetter-App, entwickelt mit React, die aktuelle Wetterinformationen für verschiedene Städte anzeigt.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Stadtsuche** – Wetterinformationen für eine bestimmte Stadt suchen.
+- **Wetterdaten abrufen** – Aktuelle Wetterinformationen über die OpenWeather API erhalten.
+- **Wetterdetails anzeigen** – Informationen zum Wetter der ausgewählten Stadt übersichtlich darstellen.
 
-## React Compiler
+## 🛠️ Technologien
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript
+- CSS
+- HTML
+- OpenWeather API
 
-## Expanding the Oxlint configuration
+## 🚀 Ziel des Projekts
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Das Projekt dient dazu, den Umgang mit React, API-Integration, asynchronen Datenabfragen und der dynamischen Darstellung von Wetterdaten zu vertiefen.
+
+
